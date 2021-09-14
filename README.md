@@ -42,10 +42,13 @@ THEN I am able to successfully create, update, and delete data in my database
 
 To install this application, clone the code into your terminal for the respective repository. Then, install npm by entering the command ```npm init```  into the terminal. Finally, the program can then be run by entering Get, Post, Put, and Delete requests in Insomnia.
 
+To launch the MySQL command-line client, enter the flowing command in a Command Prompt window: ```mysql -u root -p ```. The ```-p```option is needed only if a root password is defined for MySQL. Enter the password when prompted.
+
 ## Usage
 1. Install npm: npm init -y
 2. In the terminal, type ```npm start``` to start the program.
-2. Open Insomnia and enter Get, Post, Put, and Delete requests.
+3. Open Insomnia and enter Get, Post, Put, and Delete requests.
+4. Use MySQL to check table statuses (if preferred).
 
 ## Contributors
 To contribute to Professional-README-generator, clone this repo locally and commit your code on a separate branch.
