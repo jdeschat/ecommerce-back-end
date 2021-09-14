@@ -4,7 +4,7 @@
 ## Description
 This project comprises of back-end code for an e-commerce website that configures a working Express.js API into Sequelize to interact with a MySQL database.
 
-![alt text](https://github.com/jdeschat/ecommerce-back-end/blob/main/assets/img/ecommerce.png)
+![alt text](https://github.com/jdeschat/ecommerce-back-end/blob/master/assets/img/ecommerce.png)
 
 ## Table of Contents
 - [Description](#description)
@@ -70,10 +70,10 @@ Made with [contributors-img](https://contrib.rocks).
 ## Questions
 My Github username is jdeschat, which can be accessed here https://github.com/jdeschat/ecommerce-back-end.
 
-The Github page for this project can be accessed using the following link: https://jdeschat.github.io/ecommerce-back-end/.
-
 You can reach me at jdeschat@gmail.com with additional questions.
   
-Below are links to my demo video and the video location on my Github, respectfully:
-- [Link to Demo Video](https://youtu.be/)
+Below is the link to my demo video on my Github:
 - [Video location in Github](https://github.com/jdeschat/ecommerce-back-end/tree/main/assets/video)
+
+![Alt Text](https://github.com/jdeschat/ecommerce-back-end/blob/main/assets/video/ecommerce-demo.gif)
+
