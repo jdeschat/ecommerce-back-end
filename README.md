@@ -73,7 +73,7 @@ My Github username is jdeschat, which can be accessed here https://github.com/jd
 You can reach me at jdeschat@gmail.com with additional questions.
   
 Below is the link to my demo video on my Github:
-- [Video location in Github](https://github.com/jdeschat/ecommerce-back-end/tree/main/assets/video)
+- [Video location in Github](https://github.com/jdeschat/ecommerce-back-end/tree/master/assets/video)
 
-![Alt Text](https://github.com/jdeschat/ecommerce-back-end/blob/main/assets/video/ecommerce-demo.gif)
+![Alt Text](https://github.com/jdeschat/ecommerce-back-end/blob/master/assets/video/ecommerce-demo.gif)
 
